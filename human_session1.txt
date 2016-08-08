@@ -1,0 +1,157 @@
+(cs88)Armans-MacBook-Pro-2:hangman Arman$ python human.py
+
+['_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_']
+Guessed chars:  []
+guesser , please enter your next guess.
+e
+guesser , please enter your next guess.
+a
+
+
+
+
+
+
+
+
+-----
+
+['_', '_', 'e', '_', 'e', '_', '_', '_', '_', '_', 'e']
+Guessed chars:  ['e', 'a']
+guesser , please enter your next guess.
+i
+
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+-----
+
+['_', '_', 'e', '_', 'e', '_', '_', '_', '_', '_', 'e']
+Guessed chars:  ['e', 'a', 'i']
+guesser , please enter your next guess.
+o
+guesser , please enter your next guess.
+u
+  ______
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+-----
+
+['_', 'o', 'e', '_', 'e', '_', '_', '_', '_', '_', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u']
+guesser , please enter your next guess.
+y
+guesser , please enter your next guess.
+m
+guesser , please enter your next guess.
+d
+  ______
+  |     :
+  |
+  |
+  |
+  |
+  |
+  |
+-----
+
+['_', 'o', 'e', '_', 'e', '_', '_', '_', 'y', 'm', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u', 'y', 'm', 'd']
+guesser , please enter your next guess.
+r
+  ______
+  |     :
+  |     0
+  |
+  |
+  |
+  |
+  |
+-----
+
+['_', 'o', 'e', '_', 'e', '_', '_', '_', 'y', 'm', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u', 'y', 'm', 'd', 'r']
+guesser , please enter your next guess.
+s
+  ______
+  |     :
+  |     0
+  |     +
+  |
+  |
+  |
+  |
+-----
+
+['_', 'o', 'e', '_', 'e', '_', '_', '_', 'y', 'm', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u', 'y', 'm', 'd', 'r', 's']
+guesser , please enter your next guess.
+t
+  ______
+  |     :
+  |     0
+  |   /-+
+  |
+  |
+  |
+  |
+-----
+
+['_', 'o', 'e', '_', 'e', '_', '_', '_', 'y', 'm', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u', 'y', 'm', 'd', 'r', 's', 't']
+guesser , please enter your next guess.
+g
+  ______
+  |     :
+  |     0
+  |   /-+-\
+  |
+  |
+  |
+  |
+-----
+
+['_', 'o', 'e', '_', 'e', '_', '_', '_', 'y', 'm', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u', 'y', 'm', 'd', 'r', 's', 't', 'g']
+guesser , please enter your next guess.
+c
+guesser , please enter your next guess.
+l
+  ______
+  |     :
+  |     0
+  |   /-+-\
+  |     |
+  |
+  |
+  |
+-----
+
+['c', 'o', 'e', '_', 'e', '_', 'c', '_', 'y', 'm', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u', 'y', 'm', 'd', 'r', 's', 't', 'g', 'c', 'l']
+guesser , please enter your next guess.
+k
+  ______
+  |     :
+  |     0
+  |   /-+-\
+  |     |
+  |    /
+  |   |
+  |
+-----
+
+['c', 'o', 'e', '_', 'e', '_', 'c', '_', 'y', 'm', 'e']
+Guessed chars:  ['e', 'a', 'i', 'o', 'u', 'y', 'm', 'd', 'r', 's', 't', 'g', 'c', 'l', 'k']
+guesser , please enter your next guess.
+p
+Solved  ['c', 'o', 'e', '_', 'e', '_', 'c', '_', 'y', 'm', 'e']  in  16 guesses

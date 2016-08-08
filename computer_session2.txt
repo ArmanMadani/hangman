@@ -1,0 +1,103 @@
+(cs88)Armans-MacBook-Pro-2:hangman Arman$ python computer.py
+you , pick your secret word.
+three
+
+['_', '_', '_', '_', '_']
+Guessed chars:  []
+
+
+
+
+
+
+
+
+-----
+
+['_', '_', '_', '_', '_']
+Guessed chars:  ['a']
+
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+-----
+
+['t', '_', 'r', 'e', 'e']
+Guessed chars:  ['a', 'e', 'r', 't', 'o']
+  ______
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+-----
+
+['t', '_', 'r', 'e', 'e']
+Guessed chars:  ['a', 'e', 'r', 't', 'o', 'i']
+  ______
+  |     :
+  |
+  |
+  |
+  |
+  |
+  |
+-----
+
+['t', '_', 'r', 'e', 'e']
+Guessed chars:  ['a', 'e', 'r', 't', 'o', 'i', 's']
+  ______
+  |     :
+  |     0
+  |
+  |
+  |
+  |
+  |
+-----
+
+['t', '_', 'r', 'e', 'e']
+Guessed chars:  ['a', 'e', 'r', 't', 'o', 'i', 's', 'u']
+  ______
+  |     :
+  |     0
+  |     +
+  |
+  |
+  |
+  |
+-----
+
+['t', '_', 'r', 'e', 'e']
+Guessed chars:  ['a', 'e', 'r', 't', 'o', 'i', 's', 'u', 'n']
+  ______
+  |     :
+  |     0
+  |   /-+
+  |
+  |
+  |
+  |
+-----
+
+['t', '_', 'r', 'e', 'e']
+Guessed chars:  ['a', 'e', 'r', 't', 'o', 'i', 's', 'u', 'n', 'p']
+  ______
+  |     :
+  |     0
+  |   /-+-\
+  |
+  |
+  |
+  |
+-----
+
+['t', '_', 'r', 'e', 'e']
+Guessed chars:  ['a', 'e', 'r', 't', 'o', 'i', 's', 'u', 'n', 'p', 'c']
+Solved  ['t', 'h', 'r', 'e', 'e']  in  12 guesses
